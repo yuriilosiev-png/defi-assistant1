@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <rect width="192" height="192" rx="36" fill="#0a0e1a"/>
+  <rect x="16" y="16" width="160" height="160" rx="24" fill="#111827"/>
+  <text x="96" y="72" text-anchor="middle" font-size="14" font-family="monospace" fill="#00e5ff" font-weight="bold">DeFi</text>
+  <text x="96" y="92" text-anchor="middle" font-size="10" font-family="monospace" fill="#4b5563">ANALYTICS</text>
+  <rect x="28" y="108" width="136" height="3" rx="1.5" fill="#1f2937"/>
+  <rect x="28" y="108" width="90" height="3" rx="1.5" fill="#00e5ff"/>
+  <rect x="28" y="120" width="136" height="3" rx="1.5" fill="#1f2937"/>
+  <rect x="28" y="120" width="55" height="3" rx="1.5" fill="#7c3aed"/>
+  <rect x="28" y="132" width="136" height="3" rx="1.5" fill="#1f2937"/>
+  <rect x="28" y="132" width="110" height="3" rx="1.5" fill="#10b981"/>
+  <text x="96" y="160" text-anchor="middle" font-size="9" font-family="monospace" fill="#374151">Aave · Uniswap · GMX</text>
+</svg>
